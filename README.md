@@ -1,14 +1,31 @@
-<center><h1> Almotabari3 Website </h1></center>
-<hr />
+# Almotabari3 Website
 
-<div>&nbsp;&nbsp;&nbsp;&nbsp;This site is a national digital platform, and it's one of my first projects that I created using native PHP from scratch, along with HTML5, CSS3, and JavaScript. I always enjoy revisiting it to see how much progress I've made on my programming journey. The website mainly aims to facilitate and speed up the acquaintance process between the needy and the donor, in addition to spreading and encouraging the culture of blood donation and introducing nearby blood transfusion centers...etc.</div>
-<br>
+![Almotabari3 Website]([insert-image-url-here](https://elmotabari3.000webhostapp.com/assest/_images/logo-donation.png))
 
-Programming languages: Native PHP, HTML5, CSS3, JAVASCRIPT, SQL(MYSQL);
- Creation date: 14/11/2022 
- 
+## Overview
 
-<div><h4>Live view: <a href='https://elmotabari3.000webhostapp.com/' >Almotabari3.com</a></div>
+The Almotabari3 Website is a national digital platform and one of my early projects created from scratch. It was developed using native PHP, HTML5, CSS3, and JavaScript. This website serves as a platform to facilitate and expedite the connection between those in need and blood donors. Additionally, it aims to promote and encourage blood donation culture, while also providing information about nearby blood transfusion centers and related resources.
 
+## Technologies Used
 
-BY ME: ayoub amazigh
+- Native PHP
+- HTML5
+- CSS3
+- JavaScript
+- SQL (MySQL)
+
+## Creation Date
+
+November 14, 2022
+
+## Live View
+
+You can explore the live version of the website here: [Almotabari3.com](https://elmotabari3.000webhostapp.com/)
+
+## Creator
+
+- Ayoub Amazigh
+
+---
+
+Feel free to customize this README by adding more sections or details as needed for your specific project.
