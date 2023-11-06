@@ -1,0 +1,96 @@
+body{
+    background-color: rgb(34, 32, 32);
+    /*background-color: rgb(22, 22, 22); */
+}
+
+.slice{
+    filter: invert(1);
+}
+
+.regular-text{
+    color: rgb(204, 200, 200);
+}
+.small-title{
+    color: white;
+}
+.big-title{
+    color: rgb(240, 240, 245);
+}
+.btn-primary{
+    background-color: rgb(0, 255, 0);
+    color: black;
+}
+.btn-primary:hover{
+    background-color: white;
+    color: black;
+}
+.btn-secondary{
+    background-color: cyan;
+    color: black;
+}
+
+.btn-secondary:hover{
+    background-color: white;
+    color: black;
+}
+
+.hovering-popup{
+    background-color: rgba(68, 67, 67, 0.651);
+    border: 1px solid rgba(129, 129, 129, 0.295);
+    border-radius: 5px;
+}
+
+.hovering-popup:hover{
+    box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.212);
+    transform: scale(1.05);
+    transition: .3s;
+}
+
+.hovering-popup-noscal{
+    background-color: rgba(68, 67, 67, 0.651);
+    border: 1px solid rgb(0, 0, 0);
+    border-radius: 5px;
+}
+
+.nav-title{
+    color: rgb(212, 212, 212);
+}
+.nav-title:hover{
+    color:aqua;
+}
+
+.darkmode{
+    border: 3px solid rgba(243, 243, 243, 0.116);
+    filter: invert(1);
+}
+
+@media(max-width: 1050px) {
+    .nav-elements {
+        background-color: black;
+        border: 1px solid rgba(211, 211, 211, 0.322);
+        box-shadow: 3px 3px 10px rgba(8, 8, 8, 0.144);
+    }
+
+    .nav-elements li{
+        background-color: rgba(173, 216, 230, 0.322);
+    }
+    .nav-elements li a{
+        color: white;
+    }
+
+    .nav-elements li a:hover {
+        color: black;
+    }
+    
+    .nav-elements li:hover {
+        background-color: white;
+    }
+}
+
+.added-popup{
+    background-color: rgba(46, 43, 43, 0.459);
+}
+
+.added-popup-inver{
+    background-color: black;
+}
